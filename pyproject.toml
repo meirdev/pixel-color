@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pixel-color"
+version = "0.1.0"
+description = ""
+authors = ["meirdev <maornet@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+PyQt6 = "^6.4.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.12.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
