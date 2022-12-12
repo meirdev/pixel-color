@@ -2,6 +2,8 @@
 
 Get the color of a pixel on the screen.
 
+![Screen Shot](./screenshot.png)
+
 ## Usage
 
 ```bash
